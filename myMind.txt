@@ -1,1 +1,3 @@
 Here will be any things
+This is new string
+This is second string to new
